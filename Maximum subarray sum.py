@@ -1,4 +1,4 @@
-ef max_sequence(arr):
+def max_sequence(arr):
     maximum = 0
     local_maximum = 0
     for i in arr:
